@@ -326,6 +326,18 @@
         <fullName>Website</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
+    <fields>
+        <fullName>grifolsGDO__c</fullName>
+        <description>GDO</description>
+        <externalId>false</externalId>
+        <inlineHelpText>GDO</inlineHelpText>
+        <label>grifolsGDO</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <columns>ACCOUNT.NAME</columns>
